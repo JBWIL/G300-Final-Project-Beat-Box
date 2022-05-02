@@ -12626,7 +12626,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1811378766494538113, guid: b8a999a09f43903488849809d6ab367f, type: 3}
       propertyPath: m_BackGroundColor.g
-      value: 0.91679966
+      value: 0.6005727
       objectReference: {fileID: 0}
     - target: {fileID: 1811378766494538113, guid: b8a999a09f43903488849809d6ab367f, type: 3}
       propertyPath: m_BackGroundColor.r
@@ -12881,6 +12881,18 @@ PrefabInstance:
     - target: {fileID: 2468032155358921604, guid: 1550bb5f75b23554fb5f39caf6dd73e8, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2468032155475331129, guid: 1550bb5f75b23554fb5f39caf6dd73e8, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2468032155475331129, guid: 1550bb5f75b23554fb5f39caf6dd73e8, type: 3}
+      propertyPath: m_Color.g
+      value: 0.20473026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2468032155475331129, guid: 1550bb5f75b23554fb5f39caf6dd73e8, type: 3}
+      propertyPath: m_Color.r
+      value: 0.07058823
       objectReference: {fileID: 0}
     - target: {fileID: 2468032155475331131, guid: 1550bb5f75b23554fb5f39caf6dd73e8, type: 3}
       propertyPath: player
